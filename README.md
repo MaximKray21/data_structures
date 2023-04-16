@@ -1,4 +1,4 @@
-# hand_make__OOP
+# hand_make_OOP
 
 This section describes the **basic data structures** in the Object-oriented programming paradigm.
 Here you will find a description of LinkedList, BinarySearchTree, Heap, Stack, Queue, Deque, Graph, Prefix Tree (Trie).
